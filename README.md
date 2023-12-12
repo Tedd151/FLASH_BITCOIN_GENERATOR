@@ -27,8 +27,8 @@ AVAILABLE FOR WINDOWS AND DEBIAN LINUX
 NB: Can only generate bitcoins only
 
 contact me 
-tg @f70st
+telegram @f70st
 https://t.me/f70st
 btcgenerator
 btc flash
-dlashbitcoin
+flashbitcoin
